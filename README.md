@@ -4,3 +4,5 @@ Cheese
 cake
 
 frosting
+
+strawberries
