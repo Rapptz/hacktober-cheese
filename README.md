@@ -6,3 +6,5 @@ cake
 frosting
 
 strawberries
+
+BEES
